@@ -1,0 +1,106 @@
+
+======================================================================
+                   SALES PERFORMANCE EXECUTIVE SUMMARY
+======================================================================
+
+Report Generated: November 21, 2025 at 06:17 PM
+Analysis Period: January 2024 - October 2024
+
+======================================================================
+                        KEY PERFORMANCE INDICATORS
+======================================================================
+
+Financial Performance:
+   • Total Revenue:              $     498,814.94
+   • Total Profit:               $     151,503.02
+   • Profit Margin:                        30.37%
+   • Average Order Value:        $         997.63
+
+Sales Volume:
+   • Total Orders:                           500
+   • Average Orders per Day:                 2.2
+
+======================================================================
+                         REGIONAL PERFORMANCE
+======================================================================
+
+Revenue by Region:
+   • East        $  136,996.18  ( 27.5% of total)
+   • North       $  125,466.09  ( 25.2% of total)
+   • West        $  124,096.26  ( 24.9% of total)
+   • South       $  112,256.41  ( 22.5% of total)
+
+🏆 Top Performing Region: East
+
+======================================================================
+                         PRODUCT PERFORMANCE
+======================================================================
+
+Top 5 Products by Revenue:
+   1. Laptop           $  169,198.12
+   2. Smartphone       $  152,597.82
+   3. Tablet           $   83,498.33
+   4. Headphones       $   33,447.77
+   5. Coffee Maker     $   22,488.27
+
+🏆 Best Selling Product: Laptop
+💎 Highest Profit Margin: Tablet (31.5%)
+
+======================================================================
+                        TEMPORAL ANALYSIS
+======================================================================
+
+Best Performing Month: August ($72,818.23)
+
+Quarterly Breakdown:
+   Q1: Revenue $  124,605.98  |  Profit $   38,162.88  |  Margin 30.6%
+   Q2: Revenue $  144,785.58  |  Profit $   44,568.44  |  Margin 30.8%
+   Q3: Revenue $  170,345.34  |  Profit $   51,292.36  |  Margin 30.1%
+   Q4: Revenue $   59,078.04  |  Profit $   17,479.34  |  Margin 29.6%
+
+======================================================================
+                        KEY INSIGHTS & RECOMMENDATIONS
+======================================================================
+
+Strategic Insights:
+
+1. Regional Focus:
+   → East region leads with 27.5% of total revenue
+   → Recommendation: Increase marketing investment in East region
+
+2. Product Strategy:
+   → Laptop generates highest revenue ($169,198.12)
+   → Tablet has best profit margin (31.5%)
+   → Recommendation: Expand Tablet product line for better margins
+
+3. Growth Trend:
+   → Positive trend: +6.7% growth from start to end period
+   → Recommendation: Maintain current strategies
+
+4. Operational Efficiency:
+   → Profit margin of 30.4% is healthy
+   → Average order value: $997.63
+   → Recommendation: Focus on upselling to increase AOV
+
+======================================================================
+                              CONCLUSION
+======================================================================
+
+Overall Performance: STRONG
+
+The sales data shows strong performance across all regions.
+Laptop and Tablet are key revenue and profit drivers respectively.
+
+Next Steps:
+   1. Implement targeted campaigns in East region
+   2. Increase inventory for Laptop
+   3. Optimize pricing for Tablet to maximize margins
+   4. Monitor monthly trends and adjust strategies quarterly
+
+======================================================================
+
+Report prepared by: Sales Analytics System
+Data source: sales_data.xlsx
+Total records analyzed: 500
+
+======================================================================
